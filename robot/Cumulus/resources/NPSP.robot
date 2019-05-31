@@ -177,9 +177,9 @@ Create Contact with Address
     ...                       Last Name=${last_name}
     Click Dropdown            Primary Address Type
     Click Link                link=Work
-    Populate Field By Placeholder          Mailing Street            50 Fremont Street  
+    Populate Field By Placeholder          Mailing Street            666 Post Street
     Populate Field By Placeholder          Mailing City              San Francisco
-    Populate Field By Placeholder          Mailing Zip/Postal Code   95320
+    Populate Field By Placeholder          Mailing Zip/Postal Code   94109
     Populate Field By Placeholder          Mailing State/Province    CA
     Populate Field By Placeholder          Mailing Country           USA  
     Click Modal Button        Save    
